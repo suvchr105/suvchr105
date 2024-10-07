@@ -1,9 +1,6 @@
 <img align="center" alt="Banner" width="100%" src="https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif">
 <h1 align="center">Hi 👋, I'm Suvadip Chakraborty</h1>
 <h3 align="center">A Computer Science Engineer</h3>
-
-<img align="center" alt="Coding" width="600" src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suvchr105&label=Profile%20views&color=0e75b6&style=flat" alt="suvchr105" /> </p>
 
 - 🌱 I’m currently learning **Artificial Intelligence**
