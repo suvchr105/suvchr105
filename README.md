@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Suvadip Chakraborty</h1>
 <h3 align="center">A Computer Science Enginner</h3>
-<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjJmaWE0YWs0N3d6bDFldXVpZmd3d3VhamV1eXk4cDBycm5vcDJvZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif”>
+<img align="center" alt="Coding" width="400"src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suvchr105&label=Profile%20views&color=0e75b6&style=flat" alt="suvchr105" /> </p>
 
