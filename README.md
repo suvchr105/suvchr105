@@ -41,15 +41,18 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" />
 </p>
 
----
 
-## 📊 GitHub Stats
+
+## 🔥 GitHub Contribution Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suvchr105&show_icons=true&theme=default" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suvchr105&theme=default" />
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/suvchr105/suvchr105/output/github-contribution-grid-snake.svg" />
+</p>
+
 
 ## 🔗 Connect With Me
 
