@@ -42,16 +42,14 @@
 </p>
 
 
-
-## 🔥 GitHub Contribution Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suvchr105&theme=default" />
-</p>
+##  GitHub Contribution Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/suvchr105/suvchr105/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suvchr105&theme=github-dark&hide_border=true" />
 </p>
+
+
+
 
 
 ## 🔗 Connect With Me
