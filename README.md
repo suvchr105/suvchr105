@@ -1,59 +1,90 @@
 <h1 align="center">Hi 👋, I'm Suvadip Chakraborty</h1>
+<h3 align="center">AI & Computer Science Engineer | M.Tech (AI)</h3>
 
-<h3 align="center">A Computer Science Engineer</h3>
-<img align="center" alt="Banner" width="100%" src="https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suvchr105&label=Profile%20views&color=0e75b6&style=flat" alt="suvchr105" /> </p>
--Portfolio: (https://suvadipchakraborty.netlify.app/)
-
-
-
-- 🌱 I’m currently learning **Artificial Intelligence**
-
-- 💬 Ask me about **Machine learning, AI, Deep Learning**
-
-- 📫 How to reach me **suvadipchakraborty2001@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/suvadip_chakraborty_0561a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="suvadip_chakraborty_0561a" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/suvadipchakrabortyiitj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suvadipchakrabortyiitj/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/suvadip_chr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="suvadip_chr" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://suvadipchakraborty.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge">
+  </a>
+  <a href="mailto:suvadipchakraborty2001@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge">
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
-</a> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-</a> 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-</a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-</a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-</a> 
-<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
-</a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-</a> 
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
-</a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-</a> 
+<img width="100%" src="https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif" />
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=suvchr105&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suvchr105&show_icons=true&locale=en&layout=compact" alt="suvchr105" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suvchr105&show_icons=true&locale=en" alt="suvchr105" /></p>
+## 🚀 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suvchr105&" alt="suvchr105" /></p>
+- 🎓 **M.Tech in Artificial Intelligence**
+- 🧠 Passionate about **Machine Learning, Deep Learning & Optimization**
+- 🔬 Interested in **Low-Precision ML, Kernel Methods, GenAI & MLOps**
+- 💻 Strong in **DSA, Python, C/C++, System Design**
+- 🌱 Currently building **end-to-end AI products & research-grade projects**
+- 🎯 Goal: Crack **top AI roles / GSoC / Research Internships**
 
+---
+
+## 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+</p>
+
+---
+
+## 🤖 AI / ML Stack
+
+- **ML/DL:** Regression, SVM, CNNs, Optimization, Quantization  
+- **GenAI:** LLM pipelines, Prompt Engineering, AI Agents  
+- **MLOps:** MLflow, Docker, Experiment Tracking  
+- **Math:** Linear Algebra, Probability, Optimization  
+- **Systems:** Linux, Git, CI/CD basics  
+
+---
+
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/suvadipchakrabortyiitj/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
+  </a>
+  <a href="https://dev.to/suvadip_chakraborty_0561a" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" width="40"/>
+  </a>
+  <a href="https://www.leetcode.com/suvadip_chr" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=suvchr105&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suvchr105&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suvchr105&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## ✨ Quote I Live By
+
+> *“Build things that teach you, not just impress others.”*
